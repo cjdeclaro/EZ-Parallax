@@ -2,7 +2,7 @@
 Parallax templates for easy inclusions to existing websites
 
 ## Preview
-You can preview the site at [cjdeclaro.github.io](cjdeclaro.github.io)
+You can preview the site at [cjdeclaro.github.io](https://cjdeclaro.github.io/EZ-Parallax/)
 
 ## Implementation
 #### Adding to your site
