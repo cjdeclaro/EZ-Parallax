@@ -27,7 +27,7 @@ The default setting has 8 parallax layers
 #### Customizing the images
 Go to **__/img__** folder and edit the images into **__.png__** format
 
-#### Adding you main content
+#### Adding your main content
 Put your site content inside:
 
 ```
