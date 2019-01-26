@@ -1,6 +1,11 @@
-/* PARALLAX */
+/* PARALLAX.CSS */
+/*CSS created by Christopher Jay De Claro*/
+/*github.com/cjdeclaro*/
 
-.keyart, .keyart_layer {
+/*Key Art default settings*/
+
+.keyart,
+.keyart_layer {
 	height: 1000px;
 }
 
@@ -21,40 +26,51 @@
 	position: fixed;
 }
 
-.main-content{
+.main-content {
 	width: 100%;
 	position: absolute;
 	z-index: 200;
 }
 
+/*ADD OR REMOVE LAYERS AS NEEDED*/
+
 #keyart-0 {
 	background-image: url(img/parallax0.png);
 	background-color: #ffaf1b;
 }
+
 #keyart-1 {
 	background-image: url(img/parallax1.png);
 }
+
 #keyart-2 {
 	background-image: url(img/parallax2.png);
 }
+
 #keyart-3 {
 	background-image: url(img/parallax3.png);
 }
+
 #keyart-4 {
 	background-image: url(img/parallax4.png);
 }
+
 #keyart-5 {
 	background-image: url(img/parallax5.png);
 }
+
 #keyart-6 {
 	background-image: url(img/parallax6.png);
 }
+
 #keyart-7 {
 	background-image: url(img/parallax7.png);
 }
+
 #keyart-8 {
 	background-image: url(img/parallax8.png);
 }
+
 #keyart-scrim {
 	background-color: #ffaf00;
 	opacity: 0;
